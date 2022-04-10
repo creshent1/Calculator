@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.calculator {
+    border: solid 2px;
+    width: 180px;
+} 
+
+input {
+    margin: 5px;
+}
